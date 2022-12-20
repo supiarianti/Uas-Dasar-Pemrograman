@@ -5,9 +5,7 @@ NIM		        :	1227050130
 Jurusan		    :[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 
 ## Deskripsi Umum
-Matriks adalah sekumpulan bilangan yang disusun berdasarkan baris dan kolom, serta ditempatkan di dalam tanda kurung. Tanda kurungnya ini bisa berupa kurung biasa “( )” atau kurung siku “[ ]”,. Suatu matriks diberi nama dengan huruf kapital, seperti A, B, C, dan seterusnya. 
-
-Oh iya, kamu tau kan bedanya baris dan kolom? Baris itu susunannya horizontal atau ke samping, sedangkan kolom susunannya vertikal atau dari atas ke bawah. 
+Matriks adalah sekumpulan bilangan yang disusun berdasarkan baris dan kolom, serta ditempatkan di dalam tanda kurung. Tanda kurungnya ini bisa berupa kurung biasa “( )” atau kurung siku “[ ]”. Suatu matriks diberi nama dengan huruf kapital, seperti A, B, C, dan seterusnya. Bedanya baris dan kolom adalah baris itu susunannya horizontal atau ke samping, sedangkan kolom susunannya vertikal atau dari atas ke bawah. 
 
 ## Source Code
 #include <iostream>
